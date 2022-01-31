@@ -1,0 +1,15 @@
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/obj/Debug/net5.0/Rock, Paper, Scissors Game.csproj.AssemblyReference.cache
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/obj/Debug/net5.0/Rock, Paper, Scissors Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/obj/Debug/net5.0/Rock, Paper, Scissors Game.AssemblyInfoInputs.cache
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/obj/Debug/net5.0/Rock, Paper, Scissors Game.AssemblyInfo.cs
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/obj/Debug/net5.0/Rock, Paper, Scissors Game.csproj.CoreCompileInputs.cache
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/bin/Debug/net5.0/Rock, Paper, Scissors Game.deps.json
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/bin/Debug/net5.0/Rock, Paper, Scissors Game.runtimeconfig.json
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/bin/Debug/net5.0/Rock, Paper, Scissors Game.runtimeconfig.dev.json
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/bin/Debug/net5.0/Rock, Paper, Scissors Game.dll
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/bin/Debug/net5.0/ref/Rock, Paper, Scissors Game.dll
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/bin/Debug/net5.0/Rock, Paper, Scissors Game.pdb
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/obj/Debug/net5.0/Rock, Paper, Scissors Game.dll
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/obj/Debug/net5.0/ref/Rock, Paper, Scissors Game.dll
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/obj/Debug/net5.0/Rock, Paper, Scissors Game.pdb
+/Users/aaronguo/Desktop/Rock, Paper, Scissors Game/obj/Debug/net5.0/Rock, Paper, Scissors Game.genruntimeconfig.cache
