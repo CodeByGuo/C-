@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Analyze Music Playlist/1.0.0": {
+        "runtime": {
+          "Analyze Music Playlist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Analyze Music Playlist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

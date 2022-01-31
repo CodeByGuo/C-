@@ -1,0 +1,30 @@
+/Users/aaronguo/Desktop/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.csproj.AssemblyReference.cache
+/Users/aaronguo/Desktop/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronguo/Desktop/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.AssemblyInfoInputs.cache
+/Users/aaronguo/Desktop/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.AssemblyInfo.cs
+/Users/aaronguo/Desktop/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.csproj.CoreCompileInputs.cache
+/Users/aaronguo/Desktop/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.deps.json
+/Users/aaronguo/Desktop/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.runtimeconfig.json
+/Users/aaronguo/Desktop/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.runtimeconfig.dev.json
+/Users/aaronguo/Desktop/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.dll
+/Users/aaronguo/Desktop/Analyze Music Playlist/bin/Debug/net5.0/ref/Analyze Music Playlist.dll
+/Users/aaronguo/Desktop/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.pdb
+/Users/aaronguo/Desktop/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.dll
+/Users/aaronguo/Desktop/Analyze Music Playlist/obj/Debug/net5.0/ref/Analyze Music Playlist.dll
+/Users/aaronguo/Desktop/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.pdb
+/Users/aaronguo/Desktop/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.genruntimeconfig.cache
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.csproj.AssemblyReference.cache
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.AssemblyInfoInputs.cache
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.AssemblyInfo.cs
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.csproj.CoreCompileInputs.cache
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.dll
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/obj/Debug/net5.0/ref/Analyze Music Playlist.dll
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.pdb
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.deps.json
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.runtimeconfig.json
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.runtimeconfig.dev.json
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.dll
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/bin/Debug/net5.0/ref/Analyze Music Playlist.dll
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/bin/Debug/net5.0/Analyze Music Playlist.pdb
+/Users/aaronguo/Desktop/You Are Smart/IT 2040/Analyze Music Playlist/obj/Debug/net5.0/Analyze Music Playlist.genruntimeconfig.cache
