@@ -1,0 +1,15 @@
+/Users/aaronguo/Desktop/Grade Convertor C#/bin/Debug/net5.0/Grade Convertor C#.deps.json
+/Users/aaronguo/Desktop/Grade Convertor C#/bin/Debug/net5.0/Grade Convertor C#.runtimeconfig.json
+/Users/aaronguo/Desktop/Grade Convertor C#/bin/Debug/net5.0/Grade Convertor C#.runtimeconfig.dev.json
+/Users/aaronguo/Desktop/Grade Convertor C#/bin/Debug/net5.0/Grade Convertor C#.dll
+/Users/aaronguo/Desktop/Grade Convertor C#/bin/Debug/net5.0/ref/Grade Convertor C#.dll
+/Users/aaronguo/Desktop/Grade Convertor C#/bin/Debug/net5.0/Grade Convertor C#.pdb
+/Users/aaronguo/Desktop/Grade Convertor C#/obj/Debug/net5.0/Grade Convertor C#.csproj.AssemblyReference.cache
+/Users/aaronguo/Desktop/Grade Convertor C#/obj/Debug/net5.0/Grade Convertor C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronguo/Desktop/Grade Convertor C#/obj/Debug/net5.0/Grade Convertor C#.AssemblyInfoInputs.cache
+/Users/aaronguo/Desktop/Grade Convertor C#/obj/Debug/net5.0/Grade Convertor C#.AssemblyInfo.cs
+/Users/aaronguo/Desktop/Grade Convertor C#/obj/Debug/net5.0/Grade Convertor C#.csproj.CoreCompileInputs.cache
+/Users/aaronguo/Desktop/Grade Convertor C#/obj/Debug/net5.0/Grade Convertor C#.dll
+/Users/aaronguo/Desktop/Grade Convertor C#/obj/Debug/net5.0/ref/Grade Convertor C#.dll
+/Users/aaronguo/Desktop/Grade Convertor C#/obj/Debug/net5.0/Grade Convertor C#.pdb
+/Users/aaronguo/Desktop/Grade Convertor C#/obj/Debug/net5.0/Grade Convertor C#.genruntimeconfig.cache

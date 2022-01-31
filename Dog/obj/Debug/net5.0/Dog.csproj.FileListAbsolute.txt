@@ -1,0 +1,15 @@
+/Users/aaronguo/Desktop/Dog/obj/Debug/net5.0/Dog.csproj.AssemblyReference.cache
+/Users/aaronguo/Desktop/Dog/obj/Debug/net5.0/Dog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronguo/Desktop/Dog/obj/Debug/net5.0/Dog.AssemblyInfoInputs.cache
+/Users/aaronguo/Desktop/Dog/obj/Debug/net5.0/Dog.AssemblyInfo.cs
+/Users/aaronguo/Desktop/Dog/obj/Debug/net5.0/Dog.csproj.CoreCompileInputs.cache
+/Users/aaronguo/Desktop/Dog/bin/Debug/net5.0/Dog.deps.json
+/Users/aaronguo/Desktop/Dog/bin/Debug/net5.0/Dog.runtimeconfig.json
+/Users/aaronguo/Desktop/Dog/bin/Debug/net5.0/Dog.runtimeconfig.dev.json
+/Users/aaronguo/Desktop/Dog/bin/Debug/net5.0/Dog.dll
+/Users/aaronguo/Desktop/Dog/bin/Debug/net5.0/ref/Dog.dll
+/Users/aaronguo/Desktop/Dog/bin/Debug/net5.0/Dog.pdb
+/Users/aaronguo/Desktop/Dog/obj/Debug/net5.0/Dog.dll
+/Users/aaronguo/Desktop/Dog/obj/Debug/net5.0/ref/Dog.dll
+/Users/aaronguo/Desktop/Dog/obj/Debug/net5.0/Dog.pdb
+/Users/aaronguo/Desktop/Dog/obj/Debug/net5.0/Dog.genruntimeconfig.cache
