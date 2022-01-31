@@ -1,0 +1,15 @@
+/Users/aaronguo/Desktop/Midterm Project/obj/Debug/net5.0/Midterm Project.csproj.AssemblyReference.cache
+/Users/aaronguo/Desktop/Midterm Project/obj/Debug/net5.0/Midterm Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aaronguo/Desktop/Midterm Project/obj/Debug/net5.0/Midterm Project.AssemblyInfoInputs.cache
+/Users/aaronguo/Desktop/Midterm Project/obj/Debug/net5.0/Midterm Project.AssemblyInfo.cs
+/Users/aaronguo/Desktop/Midterm Project/obj/Debug/net5.0/Midterm Project.csproj.CoreCompileInputs.cache
+/Users/aaronguo/Desktop/Midterm Project/bin/Debug/net5.0/Midterm Project.deps.json
+/Users/aaronguo/Desktop/Midterm Project/bin/Debug/net5.0/Midterm Project.runtimeconfig.json
+/Users/aaronguo/Desktop/Midterm Project/bin/Debug/net5.0/Midterm Project.runtimeconfig.dev.json
+/Users/aaronguo/Desktop/Midterm Project/bin/Debug/net5.0/Midterm Project.dll
+/Users/aaronguo/Desktop/Midterm Project/bin/Debug/net5.0/ref/Midterm Project.dll
+/Users/aaronguo/Desktop/Midterm Project/bin/Debug/net5.0/Midterm Project.pdb
+/Users/aaronguo/Desktop/Midterm Project/obj/Debug/net5.0/Midterm Project.dll
+/Users/aaronguo/Desktop/Midterm Project/obj/Debug/net5.0/ref/Midterm Project.dll
+/Users/aaronguo/Desktop/Midterm Project/obj/Debug/net5.0/Midterm Project.pdb
+/Users/aaronguo/Desktop/Midterm Project/obj/Debug/net5.0/Midterm Project.genruntimeconfig.cache
